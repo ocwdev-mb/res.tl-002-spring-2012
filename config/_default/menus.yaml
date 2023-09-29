@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-ea1f1749edc44df2bcf9cc072bb127c7
+  name: Online Publication
+  url: http://web.mit.edu/star/index.html
+  weight: 1000
